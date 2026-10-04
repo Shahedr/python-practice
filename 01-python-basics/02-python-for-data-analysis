@@ -1,0 +1,8 @@
+# NumPy Arrays Practice
+
+import numpy as np
+
+prices = np.array([24.99, 49.99, 79.99])
+
+print(prices)
+print(prices * 2)
