@@ -1,39 +1,42 @@
 # Python Practice
 
-This repository tracks my Python learning journey as I build a stronger foundation for data analytics and machine learning.
+This repository documents the Python foundation I built before moving into larger analytics, data science, and ML engineering projects.
 
-## Goals
-- Strengthen Python fundamentals
-- Practice problem-solving
-- Learn Python for data analysis
-- Build confidence writing code independently
-- Prepare for larger analytics and machine learning projects
+## Purpose
 
-## Topics
-- Variables and data types
-- Conditional statements
-- Loops
-- Functions
-- Lists, tuples, sets, and dictionaries
-- File handling
-- Error handling
+The goal of this repo is not to be a polished portfolio project. It serves as a learning record for the core Python concepts I now use in real project work.
+
+## Completed Foundations
+
+- [x] Variables and data types
+- [x] Strings and formatting
+- [x] Conditionals and logical operators
+- [x] Lists, tuples, sets, and dictionaries
+- [x] Loops and loop calculations
+- [x] Functions and parameters
+- [x] Scope and user input
+- [x] Error handling with `try` / `except`
+- [x] File reading, writing, and appending
+- [x] Imports and modules
+- [x] List comprehensions
+- [x] `enumerate()` and `zip()`
+- [x] Nested data structures
+- [x] Python fundamentals review challenge
+- [x] Mini order analyzer project
+
+## Current Focus
+
+I am now transitioning from isolated exercises into project-based learning using:
+
 - NumPy
 - Pandas
-- Data cleaning
-- Exploratory data analysis
+- SQL / PostgreSQL
+- Statistics
+- Machine Learning
+- ETL and data pipelines
+- dbt and Airflow
+- ML deployment and MLOps concepts
 
-## Progress
+## Next Step
 
-- [ ] Python fundamentals
-- [ ] Data structures
-- [ ] Loops and conditionals
-- [ ] Functions
-- [ ] File handling
-- [ ] Error handling
-- [ ] NumPy
-- [ ] Pandas
-- [ ] Data cleaning
-- [ ] Exploratory data analysis
-
-## Practice Projects
-Projects and exercises will be added as I progress through the roadmap.
+Future learning will primarily happen inside end-to-end portfolio projects, where new concepts are applied to realistic data problems rather than added here as standalone exercises.
