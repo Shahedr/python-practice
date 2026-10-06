@@ -1,42 +1,27 @@
 # Python Practice
 
-This repository documents the Python foundation I built before moving into larger analytics, data science, and ML engineering projects.
+This repo is my Python fundamentals archive. I used it while getting comfortable with the language before moving most of my work into larger analytics and data projects.
 
-## Purpose
+It is **not one of my main portfolio projects**; I keep it public because it shows the progression behind the code I use elsewhere.
 
-The goal of this repo is not to be a polished portfolio project. It serves as a learning record for the core Python concepts I now use in real project work.
+## Topics covered
 
-## Completed Foundations
+- variables and data types
+- strings and formatting
+- conditionals and logical operators
+- lists, tuples, sets, and dictionaries
+- loops and basic calculations
+- functions and parameters
+- scope and user input
+- `try` / `except`
+- file reading, writing, and appending
+- imports and modules
+- list comprehensions
+- `enumerate()` and `zip()`
+- nested data structures
+- review exercises
+- mini order-analyzer exercise
 
-- [x] Variables and data types
-- [x] Strings and formatting
-- [x] Conditionals and logical operators
-- [x] Lists, tuples, sets, and dictionaries
-- [x] Loops and loop calculations
-- [x] Functions and parameters
-- [x] Scope and user input
-- [x] Error handling with `try` / `except`
-- [x] File reading, writing, and appending
-- [x] Imports and modules
-- [x] List comprehensions
-- [x] `enumerate()` and `zip()`
-- [x] Nested data structures
-- [x] Python fundamentals review challenge
-- [x] Mini order analyzer project
+## Where I moved next
 
-## Current Focus
-
-I am now transitioning from isolated exercises into project-based learning using:
-
-- NumPy
-- Pandas
-- SQL / PostgreSQL
-- Statistics
-- Machine Learning
-- ETL and data pipelines
-- dbt and Airflow
-- ML deployment and MLOps concepts
-
-## Next Step
-
-Future learning will primarily happen inside end-to-end portfolio projects, where new concepts are applied to realistic data problems rather than added here as standalone exercises.
+Most newer work now lives in project repos where Python is used alongside pandas, SQL, statistics, machine learning, APIs, and data pipelines rather than as isolated syntax exercises.
